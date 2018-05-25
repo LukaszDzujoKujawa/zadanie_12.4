@@ -1,0 +1,18 @@
+@import url(https://fonts.googleapis.com/css?family=Lato);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,800,900);
+
+.header {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background: #f39c12;
+  margin-bottom: 2%; 
+}
+
+#get-joke {
+  font-size: 40px;
+}
+
+#joke {
+  font-size: 20px;
+}
